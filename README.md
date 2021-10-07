@@ -1,0 +1,23 @@
+# DAYEONG JI
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdys0602&count_bg=%23FFB1B1&title_bg=%23FF6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dys621124@gmail.com)](mailto:dys621124@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/d_yxxth/)](https://www.instagram.com/d_yxxth/) 
+
+<br>
+
+## Who Am I
+- 🥇 I have double major in Statistics and IT Engineering.
+- 🌱 I’m currently learning Data Analysis, Image Processing.
+- 🇰🇷 I live in Seoul, Korea.
+
+## Experience
+- 🎓 SMWU (18.03. - ) 
+- 😈 Elice, Content Team Intern (21.03. - 21.06.) 
+- 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System"
+
+## Interest
+- Data Analysis
+- SQL
+- Marketing
