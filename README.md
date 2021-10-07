@@ -18,6 +18,6 @@
 - 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System"
 
 ## Interest
-- Data Analysis
+- Data Analysis & Data Visualization
 - SQL
 - Marketing
