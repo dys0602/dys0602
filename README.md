@@ -13,9 +13,9 @@
 - 🇰🇷 I live in Seoul, Korea.
 
 ## Experience
-- 🎓 SMWU (18.03. - ) 
-- 😈 Elice, Content Team Intern (21.03. - 21.06.) 
-- 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System"
+- 🎓 SMWU (18.03 - ) 
+- 😈 Elice, Content Team Intern (21.03 - 21.06) 
+- 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System" (21.07 - 21.08)
 
 ## Interest
 - Data Analysis & Data Visualization
