@@ -8,7 +8,7 @@
 <br>
 
 ## Who Am I
-- 🥇 I have double major in Statistics and IT Engineering.
+- 📊 I have double major in Statistics and IT Engineering.
 - 🌱 I’m currently learning Data Analysis, Image Processing.
 - 🇰🇷 I live in Seoul, Korea.
 
