@@ -21,3 +21,4 @@
 ## Interest
 - Data Analysis & Data Visualization
 - SQL
+- [Tableau](https://public.tableau.com/app/profile/.59653485)
