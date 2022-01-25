@@ -21,4 +21,3 @@
 ## Interest
 - Data Analysis & Data Visualization
 - SQL
-- Marketing
