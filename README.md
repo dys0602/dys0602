@@ -5,21 +5,32 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dys621124@gmail.com)](mailto:dys621124@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/d_yxxth/)](https://www.instagram.com/d_yxxth/) 
 
-<br>
 
 ## Who Am I
 - 📊 I have double major in Statistics and IT Engineering.
 - 🌱 I’m currently learning Data Analysis, Data Visualization.
 - 🇰🇷 I live in Seoul, Korea.
 
+
 ## Experience
 - 🎓 SMWU (18.03 - ) 
 - 👾 Elice, Content Team Intern (21.03 - 21.06) 
 - 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System" (21.07 - 21.08)
 - 👩🏻‍💻 Comento, Bigdata Bootcamp (21.09 - 21.10)
-- 👩🏻‍💻 SMWU BDURC(Big Data Using Research Center) Student Researcher (21.11 - )
+- 👩🏻‍💻 SMWU, BDURC(Big Data Using Research Center) Student Researcher (21.11 - )
+
+
+## Certification
+- 2020.07  ADsP
+- 2021.08  GAIQ
+- 2021.10  SQLD
+- 2022.02  컴퓨터활용능력 2급 (예정)
+
 
 ## Interest
-- Data Analysis & Data Visualization
-- SQL
-- [Tableau](https://public.tableau.com/app/profile/.59653485)
+- 📊 Data Analysis & Data Visualization
+  - Python
+  - SQL
+  - [Tableau](https://public.tableau.com/app/profile/.59653485)
+- 📕 Content
+- 👚 Fashion
