@@ -17,6 +17,7 @@
 - 👾 Elice, Content Team Intern (21.03 - 21.06) 
 - 👩🏻‍💻 AI hub Yangjae, Data Analysis Project "Pesonalized Hotel Recommendation System" (21.07 - 21.08)
 - 👩🏻‍💻 Comento, Bigdata Bootcamp (21.09 - 21.10)
+- 👩🏻‍💻 SMWU BDURC(Big Data Using Research Center) Student Researcher (21.11 - )
 
 ## Interest
 - Data Analysis & Data Visualization
