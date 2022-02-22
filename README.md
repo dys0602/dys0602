@@ -11,6 +11,18 @@
 - 🌱 I’m currently learning Data Analysis, Data Visualization.
 - 🇰🇷 I live in Seoul, Korea.
 
+## I’m currently learning ...
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-009639?style=flat-square&logo=Tensorflow&logoColor=white"/>
+
 
 ## Experience
 - 🎓 SMWU (18.03 - ) 
