@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit%20learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-009639?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
 
